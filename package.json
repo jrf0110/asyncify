@@ -1,5 +1,5 @@
 {
-  "name": "asyncify",
+  "name": "asyncify.js",
   "version": "0.1.1",
   "description": "Makes a function conform to node-style callback convention",
   "main": "index.js",

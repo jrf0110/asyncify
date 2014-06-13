@@ -5,7 +5,7 @@
 __Install:__
 
 ```
-npm install asyncify
+npm install asyncify.js
 ```
 
 __Usage:__
