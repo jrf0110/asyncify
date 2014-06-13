@@ -1,6 +1,6 @@
 {
   "name": "asyncify.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Makes a function conform to node-style callback convention",
   "main": "index.js",
   "scripts": {
