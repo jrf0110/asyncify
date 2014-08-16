@@ -23,7 +23,7 @@ async.series([
   console.log.async( console, 1, 2 )
 , doSomeWork.async( null, 'Ohyeaaaah' )
 , console.log.async().bind( console, 'also, use bind' )
-, console.log.async( console, 'complete, ':)' )
+, console.log.async( console, 'complete', ':)' )
 ]);
 
 // => 1, 2
